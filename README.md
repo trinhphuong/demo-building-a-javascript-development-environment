@@ -12,4 +12,4 @@ nsp check
    
 3. Continuous Integration
   * Register account on travis-ci.org and do follow document
-  
+  * Register account on appveyor.com and do follow document
