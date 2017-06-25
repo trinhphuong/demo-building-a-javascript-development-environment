@@ -10,4 +10,6 @@ nsp check
    run app: node buildScripts/srcServer.js
    share: lt --port 3000 --subdomain phuongtt
    
-
+3. Continuous Integration
+  * Register account on travis-ci.org and do follow document
+  
