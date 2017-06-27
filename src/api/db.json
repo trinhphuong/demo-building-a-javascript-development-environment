@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 74650759,
+      "firstName": "Xander",
+      "lastName": "Kulas",
+      "email": "Adella64@hotmail.com"
+    },
+    {
+      "id": 10391336,
+      "firstName": "Damion",
+      "lastName": "Bednar",
+      "email": "Earl.Murphy@yahoo.com"
+    },
+    {
+      "id": 67386625,
+      "firstName": "Jany",
+      "lastName": "Kilback",
+      "email": "Helga_Bahringer@hotmail.com"
+    },
+    {
+      "id": 40490230,
+      "firstName": "Keanu",
+      "lastName": "Paucek",
+      "email": "Kole_McClure32@hotmail.com"
+    }
+  ]
+}
